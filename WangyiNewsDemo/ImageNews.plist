@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>image</key>
+		<string>jobs.png</string>
+		<key>title</key>
+		<string>乔布斯传大卖</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>images-3.jpeg</string>
+		<key>title</key>
+		<string>Mac OS X Lion发布</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>jobs.png</string>
+		<key>title</key>
+		<string>摩托罗拉手机业务被Google收购</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>jobs.png</string>
+		<key>title</key>
+		<string>乔布斯传大卖</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>jobs.png</string>
+		<key>title</key>
+		<string>乔布斯传大卖</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>jobs.png</string>
+		<key>title</key>
+		<string>乔布斯传大卖</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>jobs.png</string>
+		<key>title</key>
+		<string>乔布斯传大卖</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>jobs.png</string>
+		<key>title</key>
+		<string>乔布斯传大卖</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>jobs.png</string>
+		<key>title</key>
+		<string>乔布斯传大卖</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Slider</key>
+	<array>
+		<dict>
+			<key>image</key>
+			<string>images-1.jpeg</string>
+			<key>title</key>
+			<string>New iPad发布会</string>
+		</dict>
+		<dict>
+			<key>image</key>
+			<string>images-2.jpeg</string>
+			<key>title</key>
+			<string>Smart Cover随iPad一同发布</string>
+		</dict>
+		<dict>
+			<key>image</key>
+			<string>images.jpeg</string>
+			<key>title</key>
+			<string>IOS5.0新特性</string>
+		</dict>
+	</array>
+	<key>NewsList</key>
+	<array>
+		<dict>
+			<key>image</key>
+			<string>jobs.png</string>
+			<key>title</key>
+			<string>乔布斯传大卖</string>
+			<key>desc</key>
+			<string>《乔布斯传》大卖，中国更是掀起全方位的营销热潮。一本书本身当然难有如此魅力，看看微博上乔布斯情书的翻译热潮就可以知道，乔布斯已经成了一个人们热衷消费的文化符号。</string>
+		</dict>
+		<dict>
+			<key>image</key>
+			<string>images-3.jpeg</string>
+			<key>title</key>
+			<string>Mac OS X Lion发布</string>
+			<key>desc</key>
+			<string>People have been doing the same things on computers for years. Clicking. Scrolling. Installing. Saving. With OS X Lion, we’ve challenged the accepted way of doing things by introducing new features that change the way you use a computer.</string>
+		</dict>
+		<dict>
+			<key>image</key>
+			<string>images-4.jpeg</string>
+			<key>title</key>
+			<string>摩托罗拉手机业务被Google收购</string>
+			<key>desc</key>
+			<string>这边厢摩托罗拉手机业务获Google收购打救，另一边厢同样处于捱打状态的诺基亚， 业界普遍料成为下一个被收购的目标，与微软缔结良缘。</string>
+		</dict>
+	</array>
+</dict>
+</plist>
